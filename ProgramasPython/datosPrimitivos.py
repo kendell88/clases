@@ -1,0 +1,11 @@
+Edad = int(input("Ingrese su edad"))
+variable_entera = int(input("ingrese numero entero" ))
+variable_decimal = float(input("ingrese numero decimal"))
+variable_texto = str(input("ingrese texto"))
+variable_booleana= bool(input("ingrese valor BOLEANO  "))
+
+print(Edad)
+print(variable_entera)
+print(variable_decimal)
+print(variable_texto)
+print(variable_booleana) 
